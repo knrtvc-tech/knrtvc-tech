@@ -13,7 +13,7 @@
 ### 🧩 Обо мне
 
 - 📍 Мне 31 год  
-- 💻 Самоучка, изучаю тестирование и основы автоматизации  
+- 💻 Самоучка, изучаю ручное тестирование и основы автоматизации  
 - 🧠 Изучаю **Python, Pytest, SQL, Postman, HTML, CSS**  
 - 🔍 Умею писать **чек-листы, тест-кейсы и баг-репорты**  
 - 🌱 Осваиваю инструменты: **Jira, TestRail, Git, Visual Studio Code**  
@@ -23,14 +23,53 @@
 
 ### 🧰 Навыки и инструменты
 
-| Категория | Инструменты / Навыки |
-|------------|-----------------------|
-| 🧪 Тестирование | Ручное тестирование, тест-кейсы, чек-листы |
-| 💻 Автоматизация | Python, Pytest, Selenium (начальный уровень) |
-| 🗂️ Инструменты | Postman, Jira, TestRail, Git, VS Code |
-| 🗄️ Базы данных | SQL (SELECT, JOIN, WHERE) |
-| 🌐 Веб-технологии | HTML, CSS |
-| 📚 Обучение | Stepik, YouTube, документация и pet-проекты |
+<table>
+  <tr>
+    <th>Категория</th>
+    <th>Инструменты / Навыки</th>
+  </tr>
+  <tr>
+    <td>🧪 Тестирование</td>
+    <td>Ручное тестирование, тест-кейсы, чек-листы, баг-репорты</td>
+  </tr>
+  <tr>
+    <td>💻 Автоматизация</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/> 
+    </td>
+  </tr>
+  <tr>
+    <td>🗂️ Инструменты</td>
+    <td>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TestRail-EB5424?style=flat&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>🗄️ Базы данных</td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white"/>  
+      SELECT, JOIN, WHERE
+    </td>
+  </tr>
+  <tr>
+    <td>🌐 Веб-технологии</td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>📚 Обучение</td>
+    <td>Stepik, YouTube, документация, pet-проекты</td>
+  </tr>
+</table>
 
 ---
 
@@ -39,10 +78,12 @@
 | Платформа | Курс | Статус |
 |------------|-------|---------|
 | 🎓 Stepik | [Python для начинающих](https://stepik.org/course/67) | ✅ Пройден |
-| 🎓 Stepik | Введение в тестирование ПО | 🟡 В процессе |
-| 🎓 Stepik | SQL для начинающих | 🟡 В процессе |
+| 🎓 Stepik | Введение в тестирование ПО | ✅ Пройден |
+| 🎓 Stepik | SQL для начинающих | ✅ Пройден |
 
 ---
+
+### 🧠 Технологии и инструменты
 
 ### 🧠 Технологии и инструменты
 
@@ -56,7 +97,9 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
+
 
 ---
 
