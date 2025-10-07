@@ -149,19 +149,6 @@
 
 ---
 
-### 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knrtvc-tech&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knrtvc-tech&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knrtvc-tech&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ### 🚀 Примеры моих работ
 
 - 🧾 [Тест-кейсы и чек-листы](https://github.com/knrtvc-tech/qa-portfolio/tree/main/test-cases)  
