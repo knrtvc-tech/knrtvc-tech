@@ -12,12 +12,19 @@
 
 ### 🧩 Обо мне
 
-- 📍 Мне 31 год  
-- 💻 Самоучка, изучаю ручное тестирование и основы автоматизации  
-- 🧠 Изучаю **Python, Pytest, SQL, Postman, HTML, CSS**  
-- 🔍 Умею писать **чек-листы, тест-кейсы и баг-репорты**  
-- 🌱 Осваиваю инструменты: **Jira, TestRail, Git, Visual Studio Code**  
-- ⚡ Моя цель — стать востребованным QA-инженером и приносить пользу команде  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=4AF626&center=true&vCenter=true&width=600&lines=📍+31+год,+самоучка;💻+Изучаю+тестирование+и+основы+автоматизации;🧠+Python,+Pytest,+SQL,+Postman,+HTML,+CSS;🔍+Чек-листы,+тест-кейсы,+баг-репорты;🌱+Jira,+TestRail,+Git,+VS+Code;⚡+Цель:+стать+востребованным+QA-инженером"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Manual%20Testing-FF6F61?style=for-the-badge&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Automation-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/TestRail-EB5424?style=for-the-badge&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
