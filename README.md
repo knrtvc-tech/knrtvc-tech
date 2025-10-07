@@ -162,6 +162,23 @@
 </p>
 
 ---
+### 📊 Статистика GitHub и просмотры профиля
+
+<p align="center">
+  <!-- Основные статистики -->
+  <img src="https://github-readme-stats.vercel.app/api?username=knrtvc-tech&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knrtvc-tech&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <!-- Активность -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knrtvc-tech&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <!-- Просмотры профиля -->
+  <img src="https://komarev.com/ghpvc/?username=knrtvc-tech&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
 <p align="center">
   💡 <i>“Тестирование — это не просто поиск ошибок, а путь к совершенству продукта.”</i><br><br>
