@@ -39,8 +39,9 @@
 | Платформа | Курс | Статус |
 |------------|-------|---------|
 | 🎓 Stepik | [Python для начинающих](https://stepik.org/course/67) | ✅ Пройден |
-| 🎓 Stepik | Введение в тестирование ПО | 🟡 В процессе |
-| 🎓 Stepik | SQL для начинающих | 🟡 В процессе |
+| 🎓 Stepik | Введение в тестирование ПО | ✅ Пройден |
+| 🎓 Stepik | SQL для начинающих | ✅ Пройден |
+
 
 ---
 
@@ -104,9 +105,9 @@
 ### 💬 Контакты
 
 <p align="center">
-📧 Email: <b>yourname@example.com</b><br>
+📧 Email: <b>knrtvc@gmail.com</b><br>
 💼 LinkedIn: <a href="https://linkedin.com/in/yourname">linkedin.com/in/yourname</a><br>
-💬 Telegram: <a href="https://t.me/yourhandle">@yourhandle</a><br>
+💬 Telegram: <a href="https://t.me/yourhandle">@KNRTVC</a><br>
 🐙 GitHub: <a href="https://github.com/knrtvc-tech">github.com/knrtvc-tech</a>
 </p>
 
