@@ -39,9 +39,8 @@
 | Платформа | Курс | Статус |
 |------------|-------|---------|
 | 🎓 Stepik | [Python для начинающих](https://stepik.org/course/67) | ✅ Пройден |
-| 🎓 Stepik | Введение в тестирование ПО | ✅ Пройден |
-| 🎓 Stepik | SQL для начинающих | ✅ Пройден |
-
+| 🎓 Stepik | Введение в тестирование ПО | 🟡 В процессе |
+| 🎓 Stepik | SQL для начинающих | 🟡 В процессе |
 
 ---
 
@@ -102,13 +101,21 @@
 
 ---
 
-### 💬 Контакты
+### 📫 Контакты
 
 <p align="center">
-📧 Email: <b>knrtvc@gmail.com</b><br>
-💼 LinkedIn: <a href="https://linkedin.com/in/yourname">linkedin.com/in/yourname</a><br>
-💬 Telegram: <a href="https://t.me/yourhandle">@KNRTVC</a><br>
-🐙 GitHub: <a href="https://github.com/knrtvc-tech">github.com/knrtvc-tech</a>
+  <a href="mailto:ilnur.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ilnur-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/ilnur_telegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/knrtvc-tech" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
