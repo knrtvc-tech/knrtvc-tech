@@ -13,7 +13,7 @@
 ### 🧩 Обо мне
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=4AF626&center=true&vCenter=true&width=600&lines=📍+31+год,+самоучка;💻+Изучаю+тестирование+и+основы+автоматизации;🧠+Python,+Pytest,+SQL,+Postman,+HTML,+CSS;🔍+Чек-листы,+тест-кейсы,+баг-репорты;🌱+Jira,+TestRail,+Git,+VS+Code;⚡+Цель:+стать+востребованным+QA-инженером"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=700&lines=📍+31+год,+самоучка;💻+Изучаю+тестирование+и+основы+автоматизации;🧠+Python,+Pytest,+SQL,+Postman,+HTML,+CSS;🔍+Чек-листы,+тест-кейсы,+баг-репорты;🌱+Jira,+TestRail,+Git,+VS+Code;⚡+Цель:+стать+востребованным+QA-инженером&color=FF6F61,FFB347,4AF626"/>
 </p>
 
 <p align="center">
@@ -89,8 +89,6 @@
 | 🎓 Stepik | SQL для начинающих | ✅ Пройден |
 
 ---
-
-### 🧠 Технологии и инструменты
 
 ### 🧠 Технологии и инструменты
 
