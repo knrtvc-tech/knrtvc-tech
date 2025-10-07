@@ -26,6 +26,36 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
+### 🌍 Языки
+
+<p align="center">
+  <table>
+    <tr>
+      <th>Язык</th>
+      <th>Уровень</th>
+      <th>Прогресс</th>
+    </tr>
+    <tr>
+      <td>🇷🇺 Русский</td>
+      <td>Родной</td>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=4CAF50&center=true&vCenter=true&width=150&lines=██████████"/>
+      </td>
+    </tr>
+    <tr>
+      <td>🇬🇧 Английский</td>
+      <td>Базовый (чтение технической документации)</td>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF9800&center=true&vCenter=true&width=150&lines=██████"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-Russian%20%26%20English-4AF626?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+</p>
+
 ---
 
 ### 🧰 Навыки и инструменты
