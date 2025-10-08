@@ -1,7 +1,3 @@
-<!-- 🌌 Фоновая анимация -->
-<p align="center">
-  <img src="https://i.imgur.com/zXbV4pP.gif" width="100%" alt="banner"/>
-</p>
 
 <!-- 🌀 Анимированный заголовок -->
 <h1 align="center">
