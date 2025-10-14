@@ -1,15 +1,14 @@
-
-<!-- 🌀 Анимированный заголовок -->
+<!-- 🌀 Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=Привет!+Я+Ильнур+👋;Начинающий+QA-инженер;Люблю+анализировать+и+улучшать;Изучаю+Python,+Pytest,+SQL;Стремлюсь+в+мир+профессионального+тестирования!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=Hi!+I'm+Ilnur+👋;Aspiring+QA+Engineer;Passionate+about+quality+and+automation;Learning+Python,+Pytest,+SQL;Driven+to+grow+in+Software+Testing!"/>
 </h1>
 
 ---
 
-### 🧩 Обо мне
+### 🧩 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=700&lines=📍+31+год,+самоучка;💻+Изучаю+тестирование+и+основы+автоматизации;🧠+Python,+Pytest,+SQL,+Postman,+HTML,+CSS;🔍+Чек-листы,+тест-кейсы,+баг-репорты;🌱+Jira,+TestRail,+Git,+VS+Code;⚡+Цель:+стать+востребованным+QA-инженером&color=FF6F61,FFB347,4AF626"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=700&lines=📍+31+years+old,+self-taught+specialist;💻+Focused+on+software+testing+and+automation+fundamentals;🧠+Python,+Pytest,+SQL,+Postman,+HTML,+CSS;🔍+Experience+with+test+cases,+checklists,+bug+reports;🌱+Using+Jira,+TestRail,+Git,+VS+Code;⚡+Goal:+to+become+a+skilled+QA+Engineer&color=FF6F61,FFB347,4AF626"/>
 </p>
 
 <p align="center">
@@ -22,25 +21,27 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-### 🌍 Языки
+---
+
+### 🌍 Languages
 
 <p align="center">
   <table>
     <tr>
-      <th>Язык</th>
-      <th>Уровень</th>
-      <th>Прогресс</th>
+      <th>Language</th>
+      <th>Proficiency</th>
+      <th>Progress</th>
     </tr>
     <tr>
-      <td>🇷🇺 Русский</td>
-      <td>Родной</td>
+      <td>🇷🇺 Russian</td>
+      <td>Native</td>
       <td>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=4CAF50&center=true&vCenter=true&width=150&lines=██████████"/>
       </td>
     </tr>
     <tr>
-      <td>🇬🇧 Английский</td>
-      <td>Базовый (чтение технической документации)</td>
+      <td>🇬🇧 English</td>
+      <td>Basic (reading and writing technical documentation)</td>
       <td>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF9800&center=true&vCenter=true&width=150&lines=██████"/>
       </td>
@@ -54,19 +55,19 @@
 
 ---
 
-### 🧰 Навыки и инструменты
+### 🧰 Skills & Tools
 
 <table>
   <tr>
-    <th>Категория</th>
-    <th>Инструменты / Навыки</th>
+    <th>Category</th>
+    <th>Skills / Tools</th>
   </tr>
   <tr>
-    <td>🧪 Тестирование</td>
-    <td>Ручное тестирование, тест-кейсы, чек-листы, баг-репорты</td>
+    <td>🧪 Testing</td>
+    <td>Manual testing, test design, test cases, checklists, bug reports</td>
   </tr>
   <tr>
-    <td>💻 Автоматизация</td>
+    <td>💻 Test Automation</td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/> 
@@ -74,7 +75,7 @@
     </td>
   </tr>
   <tr>
-    <td>🗂️ Инструменты</td>
+    <td>🗂️ Tools</td>
     <td>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
@@ -85,38 +86,38 @@
     </td>
   </tr>
   <tr>
-    <td>🗄️ Базы данных</td>
+    <td>🗄️ Databases</td>
     <td>
       <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white"/>  
-      SELECT, JOIN, WHERE
+      Basic queries: SELECT, JOIN, WHERE
     </td>
   </tr>
   <tr>
-    <td>🌐 Веб-технологии</td>
+    <td>🌐 Web Technologies</td>
     <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td>📚 Обучение</td>
-    <td>Stepik, YouTube, документация, pet-проекты</td>
+    <td>📚 Learning Sources</td>
+    <td>Stepik, YouTube, documentation, pet projects</td>
   </tr>
 </table>
 
 ---
 
-### 🎓 Пройденные онлайн-курсы
+### 🎓 Completed Courses
 
-| Платформа | Курс | Статус |
-|------------|-------|---------|
-| 🎓 Stepik | [Python для начинающих](https://stepik.org/course/67) | ✅ Пройден |
-| 🎓 Stepik | Введение в тестирование ПО | ✅ Пройден |
-| 🎓 Stepik | SQL для начинающих | ✅ Пройден |
+| Platform | Course | Status |
+|-----------|---------|--------|
+| 🎓 Stepik | [Python for Beginners](https://stepik.org/course/67) | ✅ Completed |
+| 🎓 Stepik | Introduction to Software Testing | ✅ Completed |
+| 🎓 Stepik | SQL for Beginners | ✅ Completed |
 
 ---
 
-### 🧠 Технологии и инструменты
+### 🧠 Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -131,38 +132,37 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
+---
+
+### 🧭 Career Goals & Development Plan
+
+| Period | Goals | Progress |
+|--------|--------|-----------|
+| 📆 Q1 2025 | Gain first internship or practical QA experience | ⏳ In Progress |
+| 📆 Q2 2025 | Deepen knowledge of Selenium + Pytest and start writing automated tests | 🚧 Learning |
+| 📆 Q3 2025 | Achieve ISTQB Foundation Level certification | 🎯 Planned |
+| 📆 Q4 2025 | Create a personal API testing pet project | 💡 Planned |
 
 ---
 
-### 🧭 Мои цели и планы развития
+### 🚀 Portfolio Projects
 
-| Период | Цели | Прогресс |
-|--------|------|-----------|
-| 📆 2025 Q1 | Получить первую стажировку или практику в QA-команде | ⏳ |
-| 📆 2025 Q2 | Освоить Selenium + Pytest глубже и начать писать автотесты | 🚧 |
-| 📆 2025 Q3 | Пройти сертификацию ISTQB Foundation Level | 🎯 |
-| 📆 2025 Q4 | Разработать собственный pet-проект по тестированию API | 💡 |
+- 🧾 [Test Cases & Checklists](https://github.com/knrtvc-tech/qa-portfolio/tree/main/test-cases)  
+- 🐞 [Bug Report Samples](https://github.com/knrtvc-tech/qa-portfolio/tree/main/bug-reports)  
+- 💡 [Automation Tests (Python + Selenium)](https://github.com/knrtvc-tech/qa-portfolio/tree/main/automation)
 
 ---
 
-### 🚀 Примеры моих работ
+### 📚 Currently Learning
 
-- 🧾 [Тест-кейсы и чек-листы](https://github.com/knrtvc-tech/qa-portfolio/tree/main/test-cases)  
-- 🐞 [Примеры баг-репортов](https://github.com/knrtvc-tech/qa-portfolio/tree/main/bug-reports)  
-- 💡 [Автотесты на Python + Selenium](https://github.com/knrtvc-tech/qa-portfolio/tree/main/automation)
-
----
-
-### 📚 Что я изучаю сейчас
-
-- 🧠 Основы **автоматизации тестирования** с Pytest  
-- ⚙️ Работа с **API через Postman**  
-- 🗄️ Углубление знаний в **SQL (подзапросы, агрегаты)**  
-- 🧩 Изучаю тест-дизайн и техники тестирования (Equivalence, Boundary Values)  
+- 🧠 Test automation using **Pytest**  
+- ⚙️ Working with **APIs via Postman**  
+- 🗄️ Strengthening **SQL** skills (subqueries, aggregations)  
+- 🧩 Exploring **test design techniques** (Equivalence Partitioning, Boundary Values)  
 
 ---
 
-### 📫 Контакты
+### 📫 Contacts
 
 <p align="center">
   <a href="mailto:knrtvc@gmail.com" target="_blank">
@@ -180,25 +180,23 @@
 </p>
 
 ---
-### 📊 Статистика GitHub и просмотры профиля
+
+### 📊 GitHub Stats & Profile Activity
 
 <p align="center">
-  <!-- Основные статистики -->
   <img src="https://github-readme-stats.vercel.app/api?username=knrtvc-tech&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knrtvc-tech&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <!-- Активность -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=knrtvc-tech&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
-  <!-- Просмотры профиля -->
   <img src="https://komarev.com/ghpvc/?username=knrtvc-tech&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
-  💡 <i>“Тестирование — это не просто поиск ошибок, а путь к совершенству продукта.”</i><br><br>
+  💡 <i>“Testing is not about breaking things — it’s about understanding how they work and making them better.”</i><br><br>
   <img src="https://i.imgur.com/UQpZK9C.gif" width="200"/>
 </p>
