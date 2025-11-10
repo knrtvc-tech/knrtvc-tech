@@ -83,6 +83,7 @@
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white"/>
     </td>
   </tr>
   <tr>
